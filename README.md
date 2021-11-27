@@ -22,3 +22,13 @@
 - Can Give Exam Any Time, There Is No Limit On Number Of Attempt.
 - Can View Marks Of Each Attempt Of Each Exam.
 - Question Pattern Is MCQ With 4 Options And 1 Correct Answer.
+
+#USES
+Python Django. Let’s see what all functionalities we will be developing in this project (for three roles – admin,Teacher & Students):
+USES : -
+    HTML: to display content on web page
+    CSS: to style HTML document
+    JavaScript: to make a timer
+    Bootstrap: A front-end framework
+    Python: Programming language.
+    Django: Python framework
